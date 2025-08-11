@@ -18,6 +18,6 @@ My personal configuration files and setup for a minimal and productive developme
 ## Usage
 Clone this repository into your home directory and create symlinks:
 ```bash
-git clone git@github.com:kundusubrata/.dotfiles.git ~/.dotfiles
+git clone https://github.com/kundusubrata/.dotfiles.git ~/.dotfiles
 ln -s ~/.dotfiles/.zshrc ~/
 # Repeat for other dotfiles as needed
