@@ -147,4 +147,5 @@ alias ....='cd ../../../'
 
 alias sysinfo='uname -a && uptime && df -h && free -h'
 
-
+# Poweroff & Reboot access from terminal
+export PATH=$PATH:/sbin:/usr/sbin
